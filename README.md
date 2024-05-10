@@ -1,3 +1,5 @@
+Authors: Ken George, Shreyas Krishnan, George Benoy
+
 How to Run:
 
 python generate_gridworld.py (if gridworlds folder was deleted, should not be)
